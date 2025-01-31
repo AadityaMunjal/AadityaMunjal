@@ -1,3 +1,6 @@
-### Hi there 👋
+### hi there 👋
 
-## I'm Aaditya Munjal aka Moon_ 
+- Freshman @ Rutgers University, Honors College 🏫
+- Forced to be a frontend machine 🤖
+- Very fun 🐬
+
