@@ -1,6 +1,6 @@
 ### hi there 👋
 
 - Freshman @ Rutgers University, Honors College 🏫
-- Forced to be a frontend machine 🤖
+- Frontend machine 🤖
 - Very fun 🐬
 
