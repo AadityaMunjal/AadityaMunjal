@@ -1,6 +1,7 @@
 ### hi there 👋
 
-- Freshman @ Rutgers University, Honors College 🏫
-- Frontend machine 🤖
-- Very fun 🐬
+- Rising Sophomore @ Rutgers University, Honors College 🏫
+- Full Stack Dev 🤖
+
+Currently working on: [Scraply](https://github.com/the-AMA-team/scraply)
 
